@@ -1,5 +1,4 @@
 <!-- Banner com saudação -->
-<img src="https://raw.githubusercontent.com/abreurenann/abreurenann/main/banner.png" alt="Banner" />
 <p align="center">
 
 </p>
