@@ -3,7 +3,7 @@
 <h1 align="center">👋 Hello, I'm Renan!</h1>
 </p>
 
-Movido por ambientes que estimulam o crescimento. Estar cercado de pessoas e projetos inspiradores me ajuda a manter o foco, a motivação e a evolução constante. Valorizo o processo tanto quanto o resultado — seja resolvendo um bug teimoso, aprendendo uma nova linguagem ou colaborando em algo desafiador com o time.
+Eu prospero em ambientes que incentivam o crescimento. Estar cercado de pessoas e projetos inspiradores me ajuda a manter o foco, a motivação e a evolução constante. Valorizo o processo tanto quanto o resultado — seja resolvendo um bug teimoso, aprendendo uma nova linguagem ou colaborando em algo desafiador com a equipe.
 
 Acredito em mirar alto, mas com leveza e flexibilidade.
 
