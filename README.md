@@ -49,22 +49,24 @@ Além da técnica, valorizo **comunicação clara**, **colaboração efetiva**.
 
 ---
 
-## 📚 Atualmente explorando
+## 🌱 Em constante aprendizado
 
-- 🧱 APIs REST com boas práticas
-- 🧩 Microsserviços e arquitetura escalável
-- 🧪 Testes automatizados (unitários e integração)
-- 📊 Performance e observabilidade no back-end
+Atualmente focado em:
+- Aprimorar arquitetura de APIs REST e microsserviços
+- Performance em aplicações back-end
+- Boas práticas com testes automatizados
 
 ---
 
-## 🚀 Conecte-se comigo!
+## 🌐 Contato
 
-Me chama para trocar ideias, colaborar ou discutir tecnologia — sempre aberto a novas conexões.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abreurenann)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/abreurenann)
+[![Email](https://img.shields.io/badge/E--mail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:renan.breu04@gmail.com)
 
-<p align="left">
-  <a href="https://linkedin.com/in/abreurenann" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
-  </a>
-</p>
+---
+
+---
+
+⭐ Obrigado por visitar meu perfil!
 <!-- Sinta-se livre para personalizar ainda mais com projetos em destaque, badges de cursos, certificações etc. -->
