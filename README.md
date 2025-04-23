@@ -1,7 +1,7 @@
 <!-- Banner com saudação -->
 <img src="https://raw.githubusercontent.com/abreurenann/abreurenann/main/banner.png" alt="Banner" />
 <p align="center">
-Desenvolvedor Back-end | Estudante de Ciência da Computação | VOE ALTO E SEJA LEVE 🎈
+
 </p>
 
 <p align="center">
@@ -17,10 +17,23 @@ Desenvolvedor Back-end | Estudante de Ciência da Computação | VOE ALTO E SEJA
 
 ## 🧠 Sobre mim
 
-Me inspiro em ambientes que me desafiam. Estar rodeado de boas ideias, pessoas engajadas e projetos com propósito me ajuda a evoluir continuamente.
+Sou movido por ambientes que estimulam o crescimento. Estar cercado de pessoas e projetos inspiradores me ajuda a manter o foco, a motivação e a evolução constante. Valorizo o processo tanto quanto o resultado — seja resolvendo um bug teimoso, aprendendo uma nova linguagem ou colaborando em algo desafiador com o time.
 
-- 🎓 Estudante de **Ciência da Computação**
-- 💼 Desenvolvedor back-end em um **SaaS**
+Acredito em mirar alto, mas com leveza e flexibilidade.
+
+> “Voe alto e seja leve 🎈”
+
+
+Tenho trabalhado em um sistema SaaS aplicando:
+- **Metodologias ágeis**: Scrum e Kanban
+- **Foco em qualidade e entregas constantes**
+
+Além da técnica, valorizo **comunicação clara**, **colaboração efetiva**.
+
+---
+
+- 🎓 Bacharel em **Ciência da Computação**
+- 💼 Desenvolvedor back-end
 - 📈 Práticas ágeis, Clean Code e boas arquiteturas
 - 🧪 Curioso, autodidata e sempre em busca de soluções elegantes
 
@@ -28,15 +41,10 @@ Me inspiro em ambientes que me desafiam. Estar rodeado de boas ideias, pessoas e
 
 ## 🛠️ Tecnologias que utilizo
 
-### 🧩 Back-end
-
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-
-### 🎨 Front-end & Marcação
-
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -66,23 +74,11 @@ Me inspiro em ambientes que me desafiam. Estar rodeado de boas ideias, pessoas e
 Me chama para trocar ideias, colaborar ou discutir tecnologia — sempre aberto a novas conexões.
 
 <p align="left">
-  <a href="https://linkedin.com/in/seu-linkedin" target="_blank">
+  <a href="https://linkedin.com/in/abreurenann" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
-  <a href="https://github.com/seu-usuario" target="_blank">
+  <a href="https://github.com/abreurenann" target="_blank">
     <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
   </a>
 </p>
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=seu-usuario&show_icons=true&theme=tokyonight&count_private=true" width="49%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=seu-usuario&theme=tokyonight" width="49%" />
-</p>
-
----
-
 <!-- Sinta-se livre para personalizar ainda mais com projetos em destaque, badges de cursos, certificações etc. -->
