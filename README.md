@@ -64,7 +64,7 @@ Atualmente focado em:
 <br>
 
 
-> _"Esse sou eu em minha série favorita... Severence"_ 👔🗂️🕝
+> _"Esse sou eu em minha série favorita... Severence!"_ 👔🗂️🕝
 
 
 ---
