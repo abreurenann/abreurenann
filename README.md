@@ -5,10 +5,10 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/seu-usuario">
+  <a href="https://github.com/abreurenann">
     <img src="https://img.shields.io/github/followers/seu-usuario?label=GitHub&style=for-the-badge&logo=github">
   </a>
-  <a href="https://linkedin.com/in/seu-linkedin">
+  <a href="https://linkedin.com/in/abreurenann">
     <img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
 </p>
