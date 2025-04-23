@@ -4,20 +4,9 @@
 
 </p>
 
-<p align="center">
-  <a href="https://github.com/abreurenann">
-    <img src="https://img.shields.io/github/followers/seu-usuario?label=GitHub&style=for-the-badge&logo=github">
-  </a>
-  <a href="https://linkedin.com/in/abreurenann">
-    <img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white">
-  </a>
-</p>
-
----
-
 ## 🧠 Sobre mim
 
-Sou movido por ambientes que estimulam o crescimento. Estar cercado de pessoas e projetos inspiradores me ajuda a manter o foco, a motivação e a evolução constante. Valorizo o processo tanto quanto o resultado — seja resolvendo um bug teimoso, aprendendo uma nova linguagem ou colaborando em algo desafiador com o time.
+Movido por ambientes que estimulam o crescimento. Estar cercado de pessoas e projetos inspiradores me ajuda a manter o foco, a motivação e a evolução constante. Valorizo o processo tanto quanto o resultado — seja resolvendo um bug teimoso, aprendendo uma nova linguagem ou colaborando em algo desafiador com o time.
 
 Acredito em mirar alto, mas com leveza e flexibilidade.
 
@@ -76,9 +65,6 @@ Me chama para trocar ideias, colaborar ou discutir tecnologia — sempre aberto 
 <p align="left">
   <a href="https://linkedin.com/in/abreurenann" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
-  </a>
-  <a href="https://github.com/abreurenann" target="_blank">
-    <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
   </a>
 </p>
 <!-- Sinta-se livre para personalizar ainda mais com projetos em destaque, badges de cursos, certificações etc. -->
