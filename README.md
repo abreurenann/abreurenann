@@ -1,9 +1,9 @@
 <!-- Banner com saudação -->
 <p align="center">
-
+<h1 align="center">👋 Olá, eu sou o Renan!</h1>
 </p>
 
-## 🧠 Sobre mim
+## 🧠 Sobre
 
 Movido por ambientes que estimulam o crescimento. Estar cercado de pessoas e projetos inspiradores me ajuda a manter o foco, a motivação e a evolução constante. Valorizo o processo tanto quanto o resultado — seja resolvendo um bug teimoso, aprendendo uma nova linguagem ou colaborando em algo desafiador com o time.
 
