@@ -64,7 +64,8 @@ Atualmente focado em:
 <br>
 
 
-> _"Esse sou eu em minha série favorita... Severence!"_ 👔🗂️🕝
+> _"Esse sou eu em minha série favorita... Severence! Qual é a sua?"_ 👔🗂️🕝
+Me chama para trocar ideias, colaborar ou discutir tecnologia — sempre aberto a novas conexões.
 
 
 ---
