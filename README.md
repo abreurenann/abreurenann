@@ -76,4 +76,3 @@ Me chama para trocar ideias, colaborar ou discutir tecnologia — sempre aberto 
 </div>
 <br>
 
----
