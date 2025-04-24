@@ -66,7 +66,7 @@ Atualmente focado em:
 Me chama para trocar ideias, colaborar ou discutir tecnologia — sempre aberto a novas conexões.
 
 
-> _"Esse sou eu em minha série favorita... Severence! Qual é a sua?"_ 👔🗂️🕝
+> _"Esse sou eu no universo da minha série favorita: Severance! E a sua, qual é? Tô aceitando indicações!"_ 👔🗂️🕝
 
 
 ---
@@ -77,6 +77,3 @@ Me chama para trocar ideias, colaborar ou discutir tecnologia — sempre aberto 
 <br>
 
 ---
-
-⭐ Obrigado pela visita!
-<!-- Sinta-se livre para personalizar ainda mais com projetos em destaque, badges de cursos, certificações etc. -->
