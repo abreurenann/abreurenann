@@ -66,7 +66,7 @@ Atualmente focado em:
 Me chama para trocar ideias, colaborar ou discutir tecnologia — sempre aberto a novas conexões.
 
 
-> _"Esse sou eu no universo da minha série favorita: Severance! E a sua, qual é? Tô aceitando indicações!"_ 👔🗂️🕝
+> _"Esse sou eu no universo da minha série favorita: Severance! E a sua, qual é? Aceitando indicações!"_ 👔🗂️🕝
 
 
 ---
