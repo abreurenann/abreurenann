@@ -70,9 +70,5 @@ Me chama para trocar ideias, colaborar ou discutir tecnologia — sempre aberto 
 
 
 ---
-
-<div align="center">
-  <img align="middle" src="./banner.png" alt="Banner do perfil" width="350" alt="Imagem em desenho de uma mulher e um gato em cima de um notebook" />
-</div>
 <br>
 
