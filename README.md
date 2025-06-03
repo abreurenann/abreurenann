@@ -1,5 +1,5 @@
 <!-- Banner com saudação -->
-<p align="center">
+<p>
 <h1 align="center">👋 Hi there</h1>
 </p>
 
