@@ -1,6 +1,6 @@
 <!-- Banner com saudação -->
 <p align="center">
-<h1 align="center">👋 Olá, Eu sou o Renan!</h1>
+<h1 align="center">👋 Hi there</h1>
 </p>
 
 O que determina nosso comportamento é o ambiente que estamos inseridos. Estar cercado de pessoas e projetos inspiradores me ajuda a manter o foco, a motivação e a evolução constante. Valorizo o processo tanto quanto o resultado — seja resolvendo um bug teimoso, aprendendo uma nova linguagem ou colaborando em algo desafiador com a equipe.
