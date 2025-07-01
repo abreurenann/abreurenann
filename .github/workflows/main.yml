@@ -15,15 +15,7 @@ jobs:
         uses: abozanona/pacman-contribution-graph@main
         with:
           github_user_name: ${{ github.repository_owner }}
-          theme: "dark"
-          background_color: "#0D1117"
-          grid_color: "#30363D"
-          text_color: "#C9D1D9"
-          color_none: "#161B22"
-          color_low: "#0E4429"
-          color_medium: "#006D32"
-          color_high: "#26A641"
-          color_max: "#39D353"
+          github_token: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Enviar SVG para branch output
         uses: crazy-max/ghaction-github-pages@v3.1.0
