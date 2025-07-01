@@ -79,11 +79,8 @@ Me chama para trocar ideias, colaborar ou discutir tecnologia — sempre aberto 
 ---
 <br>
 
-###
-
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=abreurenann&theme=dark" height="220" alt="streak graph"  />
+  <img src="https://streak-stats.demolab.com?user=abreurenann&theme=dark" height="200" />
 </div>
 
-###
 
