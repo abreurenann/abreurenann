@@ -81,9 +81,9 @@ Me chama para trocar ideias, colaborar ou discutir tecnologia — sempre aberto 
 
 ###
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/abreurenann/output/snake.svg" alt="Snake animation" />
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=abreurenann&theme=dark" height="220" alt="streak graph"  />
+</div>
 
 ###
 
