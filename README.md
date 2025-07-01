@@ -83,7 +83,7 @@ Me chama para trocar ideias, colaborar ou discutir tecnologia — sempre aberto 
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/abreurenann/abreurenann/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/abreurenann/output/snake.svg" alt="Snake animation" />
 
 ###
 
