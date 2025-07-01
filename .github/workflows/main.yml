@@ -1,4 +1,4 @@
-name: Generate Pac‑Man Contribution Graph
+name: Generate Pac-Man Contribution Graph
 
 on:
   schedule:
@@ -12,9 +12,23 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Gerar SVG com pacman-contribution-graph
-        uses: abozanona/pacman-contribution-graph@main
+        uses: abozanova/pacman-contribution-graph@main
         with:
           github_user_name: ${{ github.repository_owner }}
+          theme: "dark"
+          # Configurações específicas para o tema dark do GitHub
+          background_color: "#0D1117"    # Cor de fundo
+          grid_color: "#30363D"         # Cor das linhas do grid
+          text_color: "#C9D1D9"         # Cor do texto
+          color_none: "#161B22"         # Dias sem contribuição
+          color_low: "#0E4429"          # Baixa contribuição
+          color_medium: "#006D32"       # Média contribuição
+          color_high: "#26A641"         # Alta contribuição
+          color_max: "#39D353"          # Máxima contribuição
+          # Opcional: ajuste o tamanho do gráfico
+          block_size: "12"
+          block_radius: "2"
+          block_margin: "3"
 
       - name: Enviar SVG para branch output
         uses: crazy-max/ghaction-github-pages@v3.1.0
