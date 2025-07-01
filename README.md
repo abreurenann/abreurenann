@@ -85,7 +85,7 @@ Me chama para trocar ideias, colaborar ou discutir tecnologia — sempre aberto 
 ---
 <br>
 
-![Pac-Man Contribution Graph](https://github.com/seu_usuario/seu_repositorio/raw/output/pacman-contribution-graph.svg)
+![Pac-Man Contribution Graph](https://github.com/abreurenann/abreurenann/raw/output/pacman-contribution-graph.svg)
 
 
 
