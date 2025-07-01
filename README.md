@@ -10,7 +10,6 @@ Acredito em mirar alto, mas com leveza e flexibilidade.
 > “Voe alto e seja leve 🎈”
 
 
-Tenho trabalhado em um sistema SaaS aplicando:
 - **Metodologias ágeis**: Scrum e Kanban
 - **Foco em qualidade e entregas constantes**
 
@@ -20,7 +19,7 @@ Além da técnica, valorizo **comunicação clara**, **colaboração efetiva**.
 
 - 🎓 Bacharel em **Ciência da Computação**
 - 💼 Desenvolvedor back-end
-- 📈 Práticas ágeis, Clean Code e boas arquiteturas
+- 📈 Clean Code e boas arquiteturas
 - 🧪 Curioso, autodidata e sempre em busca de soluções elegantes
 
 ---
