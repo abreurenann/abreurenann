@@ -79,9 +79,4 @@ Me chama para trocar ideias, colaborar ou discutir tecnologia — sempre aberto 
 ---
 <br>
 
-### 🔥
-
-![GitHub Streak](https://streak-stats.demolab.com?user=abreurenann&theme=dark)
-
-
 
