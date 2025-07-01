@@ -79,3 +79,11 @@ Me chama para trocar ideias, colaborar ou discutir tecnologia — sempre aberto 
 ---
 <br>
 
+###
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=abreurenann&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+</div>
+
+###
+
