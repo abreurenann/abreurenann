@@ -3,7 +3,7 @@
 <h1>👋 Olá, eu sou o Renan!</h1>
 </p>
 
-O que determina nosso comportamento é o ambiente que estamos inseridos. Estar cercado de pessoas e projetos inspiradores me ajuda a manter o foco, a motivação e a evolução constante. Valorizo o processo tanto quanto o resultado — seja resolvendo um bug teimoso, aprendendo uma nova linguagem ou colaborando em algo desafiador com a equipe.
+O ambiente que estamos inseridos determina nosso comportamento. Estar cercado de pessoas e projetos inspiradores me ajuda a manter o foco, a motivação e a evolução constante. Valorizo o processo tanto quanto o resultado — seja resolvendo um bug teimoso, aprendendo uma nova linguagem ou colaborando em algo desafiador com a equipe.
 
 Acredito em mirar alto, mas com leveza e flexibilidade.
 
