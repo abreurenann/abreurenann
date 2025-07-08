@@ -1,6 +1,6 @@
 <!-- Banner com saudação -->
 <p>
-<h1>👋 Hi there</h1>
+<h1>👋 Olá, eu sou o Renan!</h1>
 </p>
 
 O que determina nosso comportamento é o ambiente que estamos inseridos. Estar cercado de pessoas e projetos inspiradores me ajuda a manter o foco, a motivação e a evolução constante. Valorizo o processo tanto quanto o resultado — seja resolvendo um bug teimoso, aprendendo uma nova linguagem ou colaborando em algo desafiador com a equipe.
@@ -40,11 +40,7 @@ Além da técnica, valorizo **comunicação clara**, **colaboração efetiva**.
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" height="40" alt="nestjs logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="40" alt="firebase logo"  />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg" height="40" alt="grafana logo"  />
   <img width="12" />
 </div>
 
@@ -52,8 +48,6 @@ Além da técnica, valorizo **comunicação clara**, **colaboração efetiva**.
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
-![Trello](https://img.shields.io/badge/Trello-0079BF?style=for-the-badge&logo=trello&logoColor=white)
 ![Clean Code](https://img.shields.io/badge/Clean_Code-black?style=for-the-badge&logo=code&logoColor=white)
 
 ---
@@ -78,7 +72,7 @@ Atualmente focado em:
 Me chama para trocar ideias, colaborar ou discutir tecnologia — sempre aberto a novas conexões.
 
 
-> _"Na foto sou eu, universo da minha série favorita: Severance! Qual a sua?_ 👔🗂️🕝
+> _"Na foto sou eu em universo da minha série favorita: Severance! Qual a sua?_ 👔🗂️🕝
 
 
 ---
