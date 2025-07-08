@@ -20,7 +20,7 @@ Além da técnica, valorizo **comunicação clara**, **colaboração efetiva**.
 - 🎓 Bacharel em **Ciência da Computação**
 - 💼 Desenvolvedor back-end
 - 📈 Clean Code, SOLID e boas arquiteturas
-- 🧪 Curioso, autodidata e sempre em busca de soluções elegantes
+- 🧪 Resiliente, Curioso, Crítico, sempre em busca de soluções elegantes
 
 ---
 
