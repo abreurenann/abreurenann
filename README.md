@@ -53,7 +53,7 @@ Além da técnica, valorizo **comunicação clara**, **colaboração efetiva**.
 ## 🌱 Em constante aprendizado
 
 Atualmente focado em:
-- Aprimorar arquitetura de APIs REST e microsserviços
+- Aprimorar arquitetura de APIs RESTful e microsserviços
 - Performance em aplicações back-end
 - Boas práticas com testes automatizados
 
@@ -70,7 +70,7 @@ Atualmente focado em:
 Me chama para trocar ideias, colaborar ou discutir tecnologia — sempre aberto a novas conexões.
 
 
-> _"Na foto sou eu em universo da minha série favorita: Severance! Qual a sua?_ 👔🗂️🕝
+> _"Na foto sou eu no universo da minha série favorita: Severance! Qual a sua?_ 👔🗂️🕝
 
 
 ---
