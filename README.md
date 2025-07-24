@@ -53,6 +53,9 @@ Além da técnica, valorizo **comunicação clara**, **colaboração efetiva**.
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Clean Code](https://img.shields.io/badge/Clean_Code-black?style=for-the-badge&logo=code&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Design Patterns](https://img.shields.io/badge/Design%20Patterns-4B0082?style=for-the-badge&logo=pattern&logoColor=white)
+
 
 ---
 
