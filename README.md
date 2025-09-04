@@ -17,7 +17,7 @@ Além da técnica, valorizo **comunicação clara**, **colaboração efetiva**.
 
 ---
 
-- 🎓 Bacharel em **Ciência da Computação**
+- 🎓 Bacharel em **Ciência da Computação** por Instituto Federal de Educação, Ciência e Tecnologia do Sudeste de Minas Gerais
 - 💼 Desenvolvedor back-end
 - 📈 Clean Code, SOLID e boas arquiteturas
 - 🧪 Resiliente, Curioso, Crítico, sempre em busca de soluções elegantes
