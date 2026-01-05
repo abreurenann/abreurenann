@@ -13,7 +13,7 @@ Acredito em mirar alto, mas com leveza e flexibilidade.
 - **Metodologias ágeis**: Scrum e Kanban
 - **Foco em qualidade e entregas constantes**
 
-Além da técnica, valorizo **comunicação clara**, **colaboração efetiva**.
+Além de hardskills, valorizo softskills tais como **comunicação clara**, **colaboração efetiva**.
 
 ---
 
