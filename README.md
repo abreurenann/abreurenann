@@ -20,7 +20,7 @@ Além de hardskills, valorizo softskills tais como **comunicação clara**, **co
 - 🎓 Bacharel em **Ciência da Computação** pelo Instituto Federal de Educação, Ciência e Tecnologia do Sudeste de Minas Gerais Campus Rio Pomba
 - 💼 Desenvolvedor
 - 📈 Clean Code, SOLID e boas arquiteturas
-- 🧪 Resiliente, Curioso, Crítico, sempre em busca de soluções elegantes
+- 🧪 Resiliente, sempre em busca de soluções elegantes
 
 ---
 
