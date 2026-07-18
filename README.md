@@ -18,7 +18,7 @@ Além de hardskills, valorizo softskills tais como **comunicação clara**, **co
 ---
 
 - 🎓 Bacharel em **Ciência da Computação** pelo Instituto Federal de Educação, Ciência e Tecnologia do Sudeste de Minas Gerais Campus Rio Pomba
-- 💼 Desenvolvedor back-end
+- 💼 Desenvolvedor
 - 📈 Clean Code, SOLID e boas arquiteturas
 - 🧪 Resiliente, Curioso, Crítico, sempre em busca de soluções elegantes
 
@@ -59,12 +59,9 @@ Além de hardskills, valorizo softskills tais como **comunicação clara**, **co
 
 ---
 
-## 🌱 Em constante aprendizado
+## 🌱 Em constante evolução
 
-Atualmente focado em:
-- Aprimorar arquitetura de APIs RESTful e microsserviços
-- Performance em aplicações back-end
-- Boas práticas com testes automatizados
+
 
 ---
 
