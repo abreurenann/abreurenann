@@ -7,8 +7,6 @@ Estar cercado de pessoas e projetos inspiradores me ajuda a manter o foco, a mot
 
 Acredito em mirar alto, mas com leveza e flexibilidade.
 
-> “Voe alto e seja leve 🎈”
-
 
 - **Metodologias ágeis**: Scrum e Kanban
 - **Foco em qualidade e entregas constantes**
@@ -18,7 +16,6 @@ Além de hardskills, valorizo softskills tais como **comunicação clara**, **co
 ---
 
 - 🎓 Bacharel em **Ciência da Computação** pelo Instituto Federal de Educação, Ciência e Tecnologia do Sudeste de Minas Gerais Campus Rio Pomba
-- 💼 Desenvolvedor
 - 📈 Clean Code, SOLID e boas arquiteturas
 - 🧪 Resiliente, sempre em busca de soluções elegantes
 
